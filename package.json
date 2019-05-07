@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Overview This program was designed to scrape aticles and display them on the main page. The user can save articles and make notes on teh saved articles",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,15 @@
     "handlebars": "^4.1.2",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IversJn/All-the-News-That-s-Fit-to-Scrape.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/IversJn/All-the-News-That-s-Fit-to-Scrape/issues"
+  },
+  "homepage": "https://github.com/IversJn/All-the-News-That-s-Fit-to-Scrape#readme"
 }
